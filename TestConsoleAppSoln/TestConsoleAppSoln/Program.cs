@@ -10,7 +10,7 @@ namespace TestConsoleAppSoln
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Hello - Edited in GitHub Portal");
+            Console.WriteLine("Test Hello - Edited in GitHub Portal2");
         }
     }
 }
