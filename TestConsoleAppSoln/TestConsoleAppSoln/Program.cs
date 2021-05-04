@@ -10,7 +10,7 @@ namespace TestConsoleAppSoln
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Hello - Edited in Visual Studio - InLocalBranch3 - Conflict Creation Sample");
+            Console.WriteLine("Test Hello - Edited in Visual Studio - InLocalBranch3 - Local Changes");
         }
     }
 }
