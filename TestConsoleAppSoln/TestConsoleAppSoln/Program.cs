@@ -10,7 +10,7 @@ namespace TestConsoleAppSoln
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Github Changes new");
+            Console.WriteLine("Github Changes new2");
         }
     }
 }
